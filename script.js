@@ -22,7 +22,7 @@ new Chart(ctx, {
         ],
         datasets: [
             {
-                label: "Revenue (million [$]",
+                label: "Revenue (million [R]",
                 data: [
                     5.2, 7.8, 12.3, 11.2, 11.5, 28.8,
                     35.5, 40, 42.5, 45.5, 50.5, 60,
@@ -75,7 +75,7 @@ new Chart(ctx, {
                 },
                 beginAtZero: true,
                 title: {
-                    display: true, text: "Revenue (million [$])",
+                    display: true, text: "Revenue (million [R])",
                 },
             },
         },
