@@ -1,7 +1,7 @@
 
 #  CHARTS
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/KhaniLucy/charts/blob/main/Screenshot%202024-02-29%2014.55.25.png)
 
 This sheet is information of a company that can be displayed in form of a table, graph, or diagram. Therefore this chart displays the total amount the company brings over each month in a year. 
 
